@@ -1,2 +1,2 @@
 # medicine_guide
-This is a complete medicine inventory management system.
+this is a pharmacy management website
