@@ -1,0 +1,185 @@
+
+ /** 
+ * Header Area 
+ **/
+.header-top{ 
+	
+	padding: 1%;
+}
+.menu{
+	margin-left: 150px;
+}
+.menu a{ 
+	text-decoration: none;
+/*	text-transform: uppercase;*/
+	font-weight: bold;
+	margin-left: 10px;
+}
+.menu a:hover{ 
+	color: #657f3b;
+}
+
+
+/*Header ends here------------> */
+
+
+
+/*
+Main area------>
+*/
+
+body { 
+/*
+    background-image: url('img/bottle_of_pills.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom right; 
+    background-size: 20%;
+*/
+    
+    
+}
+.bottomimg img{
+    float:right;
+    overflow:hidden;
+    margin-top: 440px;
+}
+
+
+
+.login{
+	
+/*	//background: #4b3f34;*/
+	/*color: black;
+	width: 100%;
+    background: url(images/12.jpg) no-repeat center center fixed; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top left; 
+    background-size: 13%;*/
+    background: url(images/13.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+    
+}
+
+.cus{
+    background: url(images/13.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;    
+}
+
+.cushome{
+    background: url(images/12.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;   
+    
+}
+.brwsmdcn{
+    background: url(images/14.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;  
+    
+}
+.cusfindphar{
+    background: url(images/14.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;  
+}
+.cusfamb{
+    background: url(images/12.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;  
+}
+.login1{
+	padding: 100px 0;
+	//background: #4b3f34;
+	color: black;
+	width: 100%;
+/*
+    background-image: url('img/drug-icon-2316244_640.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top left; 
+    background-size: 13%;
+    scroll-behavior: smooth;
+*/
+    
+    
+}
+.login h1{
+	font-size: 5%;
+	line-height: 0;
+}
+.login a{
+	font-size: 12px;
+	line-height: 0;
+}
+.login span{
+	color: black;
+	font-size: 20px;
+	border-radius: 50%;
+	height: 45px;
+	width: 45px;
+	padding: 15px;
+	text-align: center;
+	transition: 1s;
+	background: #b0cd3b;
+	cursor: pointer;
+	margin-right: 25px;
+	margin-top: 12px;
+}
+.login span:hover{
+	background: rgba(255,255,255,.2);
+	color: #b0cd3b;
+}
+
+.signup{
+	padding: 120px;
+	
+}
+
+table, td, th {
+    border: 1px solid black;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+    margin-left: 3%;
+}
+
+th {
+    height: 50px;
+    text-align: center;
+}
+
+.slider{
+    float: left;
+    overflow: hidden;
+}
+.parts{
+    background: D9D8D6;
+}
+/*Footer--------------------------> */
+
+
+
+.sgn{
+    background-image: url("images/25.jpg");
+}
+
